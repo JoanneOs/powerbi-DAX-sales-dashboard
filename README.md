@@ -17,3 +17,6 @@ I created this dashboard to practice DAX functions in Power BI and learn more ab
 
 ## What I Learned
 I learned how to use DAX formulas to calculate sales, work with data, and create charts that make the results easier to understand.
+
+## Note
+If you see "Unable to render code block" when opening the PDF, click Download raw file to view the report.
